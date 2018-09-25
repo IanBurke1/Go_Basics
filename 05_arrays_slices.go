@@ -7,7 +7,7 @@ func main() {
 	// Declaring an array of size 2 and type string
 	// var fruitArr [2]string
 
-	// Assign values
+	// Assign values to array index
 	// fruitArr[0] = "Apple"
 	// fruitArr[1] = "Orange"
 
