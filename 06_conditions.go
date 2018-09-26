@@ -6,6 +6,9 @@ func main() {
 	x := 5
 	y := 10
 
+	// and -> &&
+	// or -> ||
+
 	// If else
 	if x <= y {
 		fmt.Println("%d is less than or equal to %d\n", x, y)
