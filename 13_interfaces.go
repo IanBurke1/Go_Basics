@@ -31,6 +31,7 @@ func getArea(s Shape) float64 {
 }
 
 func main() {
+	// Init circle and rectangle
 	circle := Circle{x: 0, y: 0, radius: 5}
 	rectangle := Rectangle{width: 10, height: 5}
 
